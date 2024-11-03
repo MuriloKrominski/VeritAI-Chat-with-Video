@@ -1,5 +1,11 @@
+<a href="https://veritai-chat-with-video.streamlit.app">
+<img src="https://raw.githubusercontent.com/MuriloKrominski/VeritAI-Chat-with-Video/refs/heads/main/VeritAI-Chat-with-Video.png" alt="VeritAI - Chat with Video" style="max-width: 1280px; max-height: 640px; width: au
+to; height: auto;">
+</a>
+
 # VeritAI - Chat with Video
-By Murilo Krominski
+<br>
+By <a href="https://murilokrominski.github.io/autor.htm">Murilo Krominski</a>.
 
 VeritAI is an AI-powered chatbot that allows users to interact with the content of YouTube videos. Using the video transcript as a basis, VeritAI can answer questions and clarify doubts about the content, providing an intuitive interface built with **Streamlit**.
 
