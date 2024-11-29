@@ -1,0 +1,7 @@
+streamlit==1.39.0
+langchain==0.3.7
+langchain-groq==0.2.1
+langchain-community==0.3.5
+beautifulsoup4
+python-dotenv
+youtube_transcript_api
